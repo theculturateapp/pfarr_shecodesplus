@@ -62,8 +62,11 @@ main{
     font-weight: 500;
 }
 
-.weather-app-details strong {
-    color: pink
+.weather-app-details {
+    color: #b0afb9;
+}
+strong {
+    color: #f65282;
 }
 
 .weather-app-temperature-container {
@@ -71,13 +74,13 @@ main{
 }
 
 .weather-app-icon {
-    font-size: 44px;
-    margin-top: 22px;
+    font-size: 88px;
+    height: 88px;
 }
 
 .weather-app-temperature {
     font-size: 88px;
-    margin-left: 10px;
+    line-height: 88px;
     font-weight: bold;
 }
 
